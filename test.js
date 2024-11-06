@@ -8,7 +8,7 @@ console.log('sum is ', number)
 document.getElementById("sum").innerHTML = a + b;
 
 function showMessage () {
-    let msg = "Wowwwwww";
+    let msg = "Wowwwwwwdd";
     alert(msg);
 }
 
